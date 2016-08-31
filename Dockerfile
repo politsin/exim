@@ -1,16 +1,14 @@
-FROM goabout/alpine
+FROM alpine
 
-MAINTAINER Go About <tech@goabout.com>
-
-RUN echo "@testing http://dl-4.alpinelinux.org/alpine/edge/testing" >> /etc/apk/repositories
+RUN echo "http://dl-cdn.alpinelinux.org/alpine/edge/testing" >> /etc/apk/repositories
 RUN apk add --update \
-      ca-certificates \
-      exim@testing \
-    && rm -f /var/cache/apk/*
+      exim \
+      && \
+    rm -f /var/cache/apk/*
 
-COPY config/exim.conf /templates/etc/exim/exim.conf
+RUN mkdir /usr/lib/exim/ /var/log/exim 
 
-EXPOSE 25
+VOLUME ["/var/log/exim"]
 
-ENTRYPOINT ["entrypoint", "--"]
-CMD ["exim", "-bdf", "-d-all+route", "-q30m"]
+ENTRYPOINT ["exim"]
+CMD ["-bdf", "-v", "-q30m"]
