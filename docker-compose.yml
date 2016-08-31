@@ -1,0 +1,8 @@
+docker-exim :
+ image: docker-exim
+ container_name: docker-exim
+ hostname: exim
+ restart: always
+ ports:
+  - "25:25"
+
