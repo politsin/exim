@@ -1,0 +1,102 @@
+2016-08-31 20:17:24 H=jrweb.liveonthenet.com [76.74.251.46] X=TLSv1:DHE-RSA-AES256-SHA:256 CV=no F=<greg.job@wanadoo.fr> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 20:20:08 H=as.telkomsa.net (as7.telkomsa.net) [196.25.211.37] X=TLSv1:RC4-SHA:128 CV=no F=<bandos@infinito.it> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 20:20:08 H=as.telkomsa.net (as7.telkomsa.net) [196.25.211.37] X=TLSv1:RC4-SHA:128 CV=no F=<epetrushkina@rambler.ru> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 20:20:09 H=as.telkomsa.net (as7.telkomsa.net) [196.25.211.37] X=TLSv1:RC4-SHA:128 CV=no F=<derlangehannes@web.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 20:20:26 H=mail.diginno.nl (diginno.nl) [149.210.223.164] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<istnbl34@freenet.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 20:22:46 H=nskntqsrv01p.mx.bigpond.com [61.9.168.231] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<hajuri87@web.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 20:23:17 H=as.telkomsa.net (as3.telkomsa.net) [196.25.211.37] X=TLSv1:RC4-SHA:128 CV=no F=<unabirraeunapizza@tiscali.it> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 20:23:44 H=as.telkomsa.net (as2.telkomsa.net) [196.25.211.37] X=TLSv1:RC4-SHA:128 CV=no F=<Stop93@tiscali.it> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 20:23:45 H=as.telkomsa.net (as2.telkomsa.net) [196.25.211.37] X=TLSv1:RC4-SHA:128 CV=no F=<aljfleclerc@orange.fr> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 20:23:45 H=as.telkomsa.net (as2.telkomsa.net) [196.25.211.37] X=TLSv1:RC4-SHA:128 CV=no F=<massster177@freenet.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 20:23:46 H=as.telkomsa.net (as2.telkomsa.net) [196.25.211.37] X=TLSv1:RC4-SHA:128 CV=no F=<erganbo@freenet.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 20:23:47 H=as.telkomsa.net (as2.telkomsa.net) [196.25.211.37] X=TLSv1:RC4-SHA:128 CV=no F=<carlesso.vally@orange.fr> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 20:25:18 H=nskntqsrv03p.mx.bigpond.com [61.9.168.237] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<vantons@freenet.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 20:25:19 H=nskntqsrv03p.mx.bigpond.com [61.9.168.237] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<j.vohryzka@centrum.cz> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 20:25:21 H=nskntqsrv03p.mx.bigpond.com [61.9.168.237] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<brico@gmx.es> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 20:26:57 H=nskntqsrv01p.mx.bigpond.com [61.9.168.231] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<heike.egon@freenet.de> rejected RCPT <info@allforguests.me>: relay not permitted
+2016-08-31 20:30:37 H=(sip1-19.nexcess.net) [207.32.182.122] X=TLSv1:DHE-RSA-AES256-SHA:256 CV=no F=<garde1@free.fr> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 20:31:26 H=smtp01.atlngahp.sys.nuvox.net [70.43.63.18] X=TLSv1:DHE-RSA-AES256-SHA:256 CV=no F=<ladysancezz@freenet.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 20:34:02 H=840464.vps-10.com [46.32.255.204] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<schorle9@freenet.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 20:34:29 H=lovellplace.com (u16100303.onlinehome-server.com) [74.208.78.99] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<alel86@tiscali.it> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 20:39:52 H=(web01.yesilcayhaber.com) [185.85.207.173] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<many.frederic@aliceadsl.fr> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 20:40:40 H=as.telkomsa.net (as10.telkomsa.net) [196.25.211.37] X=TLSv1:RC4-SHA:128 CV=no F=<jpr.isofluides@wanadoo.fr> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 20:40:58 H=as.telkomsa.net (as1.telkomsa.net) [196.25.211.37] X=TLSv1:RC4-SHA:128 CV=no F=<gorce@aliceadsl.fr> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 20:41:42 H=s16335331.onlinehome-server.info [87.106.141.215] X=TLSv1:DHE-RSA-AES256-SHA:256 CV=no F=<zarg@sfr.fr> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 20:43:57 H=vps760.tchile.com [131.108.208.108] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<pistuddia@tiscali.it> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 20:44:00 H=vps760.tchile.com [131.108.208.108] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<jessy.sunny@freenet.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 20:44:12 H=vps760.tchile.com [131.108.208.108] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<florian.kogel@web.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 20:44:18 H=vps760.tchile.com [131.108.208.108] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<martin@wiil.dk> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 20:44:24 SMTP call from vps760.tchile.com [131.108.208.108] dropped: too many nonmail commands (last was "STARTTLS")
+2016-08-31 20:44:35 H=nschwqsrv01s.mx.bigpond.com [61.9.189.228] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<felixkurth@web.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 20:51:04 H=mail.colih.org.br [138.59.56.123] F=<weldinho12@web.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 20:56:22 H=smtp2.ttml.co.in [202.149.208.94] F=<frederic.de-rouge@wanadoo.fr> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 20:59:57 H=deferred4.pod3.dub1.zdsys.com [185.12.81.151] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<info@auto-doc.fr> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 21:00:45 H=gateway32.websitewelcome.com [192.185.145.111] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<lena.sandbacka@netikka.fi> rejected RCPT <info@allforguests.me>: relay not permitted
+2016-08-31 21:09:21 H=mailhost.mobimail.mobitelnet.lk [202.129.235.2] F=<florentin.loosli@wanadoo.fr> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 21:16:12 H=74.77.0.101.static.smartservers.com.au (ded1413.smartservers.com.au) [101.0.77.74] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<prazdnota@centrum.sk> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 21:22:39 H=gproxy6-pub.mail.unifiedlayer.com [67.222.39.168] F=<theo.renard88@orange.fr> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 21:30:51 H=(web01.yesilcayhaber.com) [185.85.207.173] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<benmhand@freenet.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 21:35:39 H=pl.dynconnect.com [149.210.198.104] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<gui.pen@orange.fr> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 21:39:10 H=(kjump2.jabservers.co.uk) [87.117.242.80] X=TLSv1.1:ECDHE-RSA-AES256-SHA:256 CV=no F=<winterchris92@web.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 21:49:01 H=mailtr.tricom.net [190.124.65.226] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<jluc.22@aliceadsl.fr> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 21:52:56 H=hs-1725.dedicated.hostalia.com [82.194.90.113] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<damianknebel1997@gmx.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 21:53:49 H=tek.tekmil.com [162.144.248.16] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<lennart120@web.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 21:55:22 H=(aaron2.servername.com) [192.217.104.18] X=TLSv1:DHE-RSA-AES256-SHA:256 CV=no F=<Possum85@web.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 22:12:58 H=mail.diginno.nl (diginno.nl) [149.210.223.164] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<lsank@web.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 22:14:54 H=(sh29-352.scubez.info) [198.20.104.157] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<humplik@centrum.cz> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 22:20:49 H=static-72-86-226-78.phlapa.east.verizon.net (zim.humannetworklabs.com) [72.86.226.78] F=<jerryjey@virgilio.it> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 22:21:44 H=mx.zcs8ib.jetmailx.com.br (vmz38mtai-tvt-spo.fly.com.br) [200.170.89.38] F=<christian.lillo@tiscali.it> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 22:52:29 H=(jou.journalmd.com) [198.1.75.16] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<bo.hann@web.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 22:52:31 H=(jou.journalmd.com) [198.1.75.16] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<cmon26@freenet.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 23:03:21 H=(ser23.choyalbrown.com) [209.15.236.18] X=TLSv1:DHE-RSA-AES256-SHA:256 CV=no F=<rotti-1991@web.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 23:08:11 H=qmail.strategiccs.com [216.37.80.162] F=<josefreinhold@web.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 23:09:11 H=mx.fobos.pl.ua [176.102.192.27] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<mertedenis@gmx.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 23:15:19 H=(132720-2.132720-2.com) [76.12.135.103] X=TLSv1:DHE-RSA-AES256-SHA:256 CV=no F=<p.schumacher11@web.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 23:23:00 H=domingo.ff.net.nz [103.26.19.144] X=TLSv1:DHE-RSA-AES256-SHA:256 CV=no F=<filippopiperno@virgilio.it> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 23:23:03 H=domingo.ff.net.nz [103.26.19.144] X=TLSv1:DHE-RSA-AES256-SHA:256 CV=no F=<jessicavalente@virgilio.it> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 23:23:07 H=domingo.ff.net.nz [103.26.19.144] X=TLSv1:DHE-RSA-AES256-SHA:256 CV=no F=<gregory-gantois@wanadoo.fr> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 23:23:10 H=domingo.ff.net.nz [103.26.19.144] X=TLSv1:DHE-RSA-AES256-SHA:256 CV=no F=<lordsprayer@freenet.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 23:23:13 SMTP call from domingo.ff.net.nz [103.26.19.144] dropped: too many nonmail commands (last was "STARTTLS")
+2016-08-31 23:23:35 H=mx.fobos.pl.ua [176.102.192.27] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<mike.roehling@freenet.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 23:23:48 H=ds7764.dedicated.turbodns.co.uk [109.104.87.209] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<gaetano54@cheapnet.it> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 23:28:13 H=expertees.nl [198.7.57.23] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<manuela.nolet@aliceadsl.fr> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 23:28:32 H=expertees.nl [198.7.57.23] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<mdewart@freenet.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 23:40:02 H=(redescomm.com) [201.249.228.13] F=<burnie11@web.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 23:42:25 H=vps82111776.123-vps.co.uk [46.32.237.120] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<thomas.fischer6@wanadoo.fr> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 23:46:31 H=relay2.denit.net [81.26.214.12] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<luffypoker@gmx.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-08-31 23:48:08 H=babyhair-co-uk.nh-serv.co.uk [185.17.180.168] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<eddi.eddi1@web.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-09-01 00:08:29 H=(132720-2.132720-2.com) [76.12.135.103] X=TLSv1:DHE-RSA-AES256-SHA:256 CV=no F=<george1@iol.ie> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-09-01 00:15:49 H=(localhost) [46.13.10.185] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<Tanja.Hole@web.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-09-01 00:21:05 H=mail.pirincom.com [212.72.222.129] X=TLSv1:DHE-RSA-AES256-SHA:256 CV=no F=<martin_zverina@centrum.cz> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-09-01 00:34:11 H=mout0.freenet.de [195.4.92.90] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<richibiker@freenet.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-09-01 00:59:29 H=mcegress-30-lw-25.correio.biz [191.252.30.25] F=<claudioante80@tiscali.it> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-09-01 01:01:48 H=(mail.localdomain) [107.170.229.163] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<n.anstoetz@freenet.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-09-01 01:03:12 H=vps82111776.123-vps.co.uk [46.32.237.120] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<kityna93@centrum.cz> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-09-01 01:04:56 H=(132720-2.132720-2.com) [76.12.135.103] X=TLSv1:DHE-RSA-AES256-SHA:256 CV=no F=<janik201@freenet.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-09-01 01:08:53 H=mailhost.mobimail.mobitelnet.lk [202.129.235.2] F=<famille.gueit@aliceadsl.fr> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-09-01 01:20:44 H=vps82111776.123-vps.co.uk [46.32.237.120] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<roro2b@wanadoo.fr> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-09-01 01:21:57 H=(kjump2.jabservers.co.uk) [87.117.242.80] X=TLSv1.1:ECDHE-RSA-AES256-SHA:256 CV=no F=<gltrbt@tiscali.it> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-09-01 01:38:17 H=(132720-2.132720-2.com) [76.12.135.103] X=TLSv1:DHE-RSA-AES256-SHA:256 CV=no F=<butterflyhinata@freenet.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-09-01 01:39:03 H=lovellplace.com (u16100303.onlinehome-server.com) [74.208.78.99] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<billydjgil@tiscali.it> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-09-01 01:50:29 H=vps82111776.123-vps.co.uk [46.32.237.120] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<flobel@freenet.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-09-01 01:55:11 H=ds7764.dedicated.turbodns.co.uk [109.104.87.209] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<bizzz2@web.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-09-01 02:15:21 H=vps82111776.123-vps.co.uk [46.32.237.120] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<aiko72@tiscali.it> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-09-01 02:24:20 H=(mail.imash.ru) [194.85.15.5] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<j.vohryzka@centrum.cz> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-09-01 02:50:55 H=mail.diginno.nl (diginno.nl) [149.210.223.164] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<theartofvoice@freenet.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-09-01 03:11:05 H=smtp01.atlngahp.sys.nuvox.net [70.43.63.18] X=TLSv1:DHE-RSA-AES256-SHA:256 CV=no F=<umruppert@web.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-09-01 03:35:30 H=static-233-42-68-212.sadecehosting.net (linux.turgem.com.tr) [212.68.42.233] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<evelyne.bourely@wanadoo.fr> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-09-01 03:38:49 H=(id11799.choopa.com) [108.61.52.183] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<jamesbward@golden.net> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-09-01 03:41:45 H=ds7764.dedicated.turbodns.co.uk [109.104.87.209] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<zoluwka@mail.com> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-09-01 04:06:23 H=(web01.yesilcayhaber.com) [185.85.207.173] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<gorce@aliceadsl.fr> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-09-01 04:09:54 H=(132720-2.132720-2.com) [76.12.135.103] X=TLSv1:DHE-RSA-AES256-SHA:256 CV=no F=<janik201@freenet.de> rejected RCPT <info@allforguests.me>: relay not permitted
+2016-09-01 04:34:02 H=u16538051.onlinehome-server.com [74.208.70.173] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<hamburger-1979@web.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-09-01 04:37:31 H=(kjump2.jabservers.co.uk) [87.117.242.80] X=TLSv1.1:ECDHE-RSA-AES256-SHA:256 CV=no F=<jarojanicek@centrum.sk> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-09-01 04:42:03 H=static-72-86-226-78.phlapa.east.verizon.net (zim.humannetworklabs.com) [72.86.226.78] F=<frederic.de-rouge@orange.fr> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-09-01 04:45:18 H=(78.155.217.73) [91.236.75.169] F=<smtp2001soho@yahoo.com> rejected RCPT <antirelay@freemailhost.ru>: relay not permitted
+2016-09-01 05:13:23 H=cloud.project222.com [129.121.182.195] X=TLSv1:DHE-RSA-AES256-SHA:256 CV=no F=<1.hobbit@tiscali.it> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-09-01 05:13:24 H=cloud.project222.com [129.121.182.195] X=TLSv1:DHE-RSA-AES256-SHA:256 CV=no F=<firedragon2585@web.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-09-01 05:13:26 H=cloud.project222.com [129.121.182.195] X=TLSv1:DHE-RSA-AES256-SHA:256 CV=no F=<billydjgil@tiscali.it> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-09-01 05:19:36 H=mail.diginno.nl (diginno.nl) [149.210.223.164] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<elizavetagordina@yahoo.com> rejected RCPT <info@allforguests.me>: relay not permitted
+2016-09-01 05:50:40 H=west-sands.com (host1.west-sands.com) [49.231.227.9] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<firephil112@web.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-09-01 05:55:03 H=keathley.keathleyadvertising.com [198.154.246.78] X=TLSv1:DHE-RSA-AES256-SHA:256 CV=no F=<Tremmi@freenet.de> rejected RCPT <info@easyprize.net>: relay not permitted
+2016-09-01 05:58:32 H=static-233-42-68-212.sadecehosting.net (linux.turgem.com.tr) [212.68.42.233] X=TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256 CV=no F=<aphazel666@freenet.de> rejected RCPT <info@easyprize.net>: relay not permitted
