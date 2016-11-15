@@ -1,5 +1,0 @@
-2016-09-15 11:40:17 Warning: purging the environment.
- Suggested action: use keep_environment.
-2016-09-15 11:40:17 exim 4.87 daemon started: pid=1, -q30m, listening for SMTP on port 25 (IPv6 and IPv4)
-2016-09-15 11:40:17 Start queue run: pid=7
-2016-09-15 11:40:17 End queue run: pid=7

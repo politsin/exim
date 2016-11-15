@@ -1,5 +1,5 @@
 docker-exim :
- image: docker-exim 
+ image: synapsestudio/exim 
  container_name: docker-exim
  hostname: exim
  restart: always
