@@ -5,6 +5,7 @@ docker-exim :
  restart: always
  ports:
   - "25:25"
+  - "465:465"
  volumes:
   - "/opt/docker-exim/config/exim-smtp.conf:/etc/exim/exim.conf:ro"
   - "/opt/docker-exim/log/:/var/log/exim/"
