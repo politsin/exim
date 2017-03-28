@@ -1,6 +1,6 @@
 #!/bin/bash
 
-chown -R systemd-timesync /opt/docker-exim/log
+chown -R 100:100 /opt/docker-exim/log
 chmod -R 755 /opt/docker-exim/log
 chmod -R 644 /opt/docker-exim/log/*
 
