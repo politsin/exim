@@ -1,8 +1,8 @@
 #!/bin/bash
 
-chown systemd-timesync /opt/docker-exim/log
+chown -R systemd-timesync /opt/docker-exim/log
 chmod -R 755 /opt/docker-exim/log
-chmod -R 677 /opt/docker-exim/log/*
+chmod -R 644 /opt/docker-exim/log/*
 
 cd /opt/docker-exim
 docker-compose up -d docker-exim
