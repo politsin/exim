@@ -1,6 +1,6 @@
 #!/bin/bash
 
-chmode -R 666 /opt/docker-exim/log
+chmod -R 666 /opt/docker-exim/log
 
 cd /opt/docker-exim
 docker-compose up -d docker-exim
