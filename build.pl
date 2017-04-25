@@ -1,4 +1,4 @@
 #!/bin/bash
 
 cd /opt/docker-exim
-chmod 777 -R /opt/docker-exim/log
+docker build -t exim:4.89 .
