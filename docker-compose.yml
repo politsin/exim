@@ -1,5 +1,5 @@
 docker-exim :
- image: exim:4.89
+ image: synst/exim
  container_name: docker-exim
  hostname: exim
  restart: always
