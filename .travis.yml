@@ -10,18 +10,11 @@ services:
 env:
   global:
     - VERSION=4.92
+    - REPO=synst/exim
 
-install:
-  - pip install -r requirements.txt
-
-script: ./build.py
+script:
+  - python build.py
 
 after_success:
   - docker login -u $DOCKER_USER -p $DOCKER_PASS
-  - export REPO=synst/exim
-  - export TAG=`if [ "$TRAVIS_BRANCH" == "master" ]; then echo "latest"; else echo $TRAVIS_BRANCH ; fi`
-  - docker build -f Dockerfile -t $REPO .
-  - docker tag $REPO $REPO:$TAG
-  - docker tag $REPO $REPO:$VERSION
-  - docker tag $REPO $REPO:$VERSION.$TRAVIS_BUILD_NUMBER
   - docker push $REPO
