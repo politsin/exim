@@ -2,6 +2,8 @@
 
 ver = "4.92"
 
+import os
+
 if os.path.exists('/opt/docker-exim'):
   os.chdir('/opt/docker-exim')
   os.system("docker build --tag exim:4.92 .")
