@@ -1,13 +1,13 @@
 #!/usr/bin/python
 
-ver = "4.92"
+ver = "4.94"
 
 import os
 
 if os.path.exists('/opt/docker-exim'):
   os.chdir('/opt/docker-exim')
-  os.system("docker build --tag exim:4.92 .")
-  os.system("docker tag exim: 4.92 exim:latest")
+  os.system("docker build --tag exim:4.94 .")
+  os.system("docker tag exim: 4.94 exim:latest")
 # get travis repo
 if os.environ['REPO']:
     repo = os.environ['REPO']

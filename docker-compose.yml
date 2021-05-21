@@ -7,6 +7,6 @@ docker-exim :
   - "25:25"
   - "465:465"
  volumes:
-  - "/opt/docker-exim/config/exim-smtp.conf:/etc/exim/exim.conf:ro"
-  - "/opt/docker-exim/log/:/var/log/exim/"
-  - "/opt/docker-exim/ssl/:/etc/ssl/:ro"
+  - "./config/exim-smtp.conf:/etc/exim/exim.conf:ro"
+  - "./log/:/var/log/exim/"
+  - "./ssl/:/etc/ssl/:ro"
