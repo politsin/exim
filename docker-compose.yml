@@ -9,4 +9,4 @@ docker-exim :
  volumes:
   - "./config/exim-smtp.conf:/etc/exim/exim.conf:ro"
   - "./log/:/var/log/exim/"
-  - "./ssl/:/etc/ssl/:ro"
+  - "./tls/:/etc/tls/:ro"
