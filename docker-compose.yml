@@ -1,6 +1,6 @@
-docker-exim :
+exim:
  image: synst/exim:latest
- container_name: docker-exim
+ container_name: exim
  hostname: exim
  restart: always
  ports:
