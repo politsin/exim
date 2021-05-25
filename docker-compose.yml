@@ -7,6 +7,6 @@ exim:
   - "25:25"
   - "465:465"
  volumes:
-  - "./etc/exim-smtp.conf:/etc/exim/exim.conf:ro"
+  - "./etc/exim.conf:/etc/exim/exim.conf:ro"
   - "./log:/var/log/exim"
   - "./tls:/etc/tls:ro"

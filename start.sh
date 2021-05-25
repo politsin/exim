@@ -7,11 +7,17 @@ chmod -R 755 ./log
 chmod -R 644 ./log/*
 
 # keys:
+
 mkdir -p ./tls
-openssl req -newkey rsa:4096 -new -nodes -x509 -days 3650 -keyout ./tls/private.pem -out ./tls/fullchain.pem -subj '/CN=exim'
-openssl rsa -pubout -in ./tls/private.pem -out ./tls/public.pem
+# cert:
+if [ ! -f ./tls/fullchain.pem ]; then
+  openssl req -newkey rsa:4096 -new -nodes -x509 -days 3650 -keyout ./tls/private.pem -out ./tls/fullchain.pem -subj '/CN=exim'
+  openssl rsa -pubout -in ./tls/private.pem -out ./tls/public.pem
+fi
 # dhparam:
-openssl dhparam -out ./tls/dhparam-2048.pem 2048
+if [ ! -f ./tls/dhparam-2048.pem ]; then
+  openssl dhparam -out ./tls/dhparam-2048.pem 2048
+fi
 chown -R 100:100 ./tls/*
 
 docker-compose up -d exim
