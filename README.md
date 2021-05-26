@@ -1,4 +1,10 @@
-# docker-exim
+# Exim
+
+## Что нужно настроить для почты
+ 1. А-запись для сервера
+ 2. `PTR запись` (обратная версия A записи) настраивается в панели хостинга 
+ 3. Указать `primary_hostname` в `etc/exim.conf` совпадающий с А-записью 
+
 
 ## Для пуникода:
  - https://github.com/politsin/docker-exim/commit/b0082cee604abbfbb96b2617e5c71116f333d96c
