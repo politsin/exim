@@ -26,7 +26,7 @@ if [ ! -f ./tls/dkim.pem ]; then
   openssl rsa -pubout -in ./tls/dkim.pem -out ./tls/dkim-public.pem
 fi
 key="$( cat ./tls/dkim-public.pem |  awk '(NR>1)' | sed '$d' | tr -d '\n' )"
-echo "DKIM TXT email._domainkey"
+echo "DKIM TXT smail._domainkey"
 echo "v=DKIM1; h=sha256; k=rsa; p=$key"
 
 chown -R 100:100 ./tls/*
