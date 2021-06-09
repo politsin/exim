@@ -12,9 +12,12 @@ env:
     - VERSION=4.94
     - REPO=synst/exim
 
+before_script:
+  - echo "$DOCKER_PASS" | docker login -u $DOCKER_USER --password-stdin
+
 script:
   - python build.py
 
-after_success:
-  - docker login -u $DOCKER_USER -p $DOCKER_PASS
+after_script:
+  - echo "$DOCKER_PASS" | docker login -u $DOCKER_USER --password-stdin
   - docker push $REPO
