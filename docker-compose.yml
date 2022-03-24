@@ -1,12 +1,18 @@
-exim:
- image: synst/exim:latest
- container_name: exim
- hostname: exim
- restart: always
- ports:
-  - "25:25"
-  - "465:465"
- volumes:
-  - "./etc/exim.conf:/etc/exim/exim.conf:ro"
-  - "./log:/var/log/exim"
-  - "./tls:/etc/tls:ro"
+version: "3"
+services:
+  exim:
+    image: synst/exim:latest
+    container_name: exim
+    hostname: exim
+    restart: always
+    ports:
+      - "25:25"
+      - "465:465"
+    logging:
+      options:
+        max-file: "3"
+        max-size: "50m"
+    volumes:
+     - "./etc/exim.conf:/etc/exim/exim.conf:ro"
+     - "./log:/var/log/exim"
+     - "./tls:/etc/tls:ro"
